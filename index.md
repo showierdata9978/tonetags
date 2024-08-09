@@ -29,4 +29,4 @@ Tonetags I reconise and/or coined. There are going to be ones that are missing h
 - /ex = exaggeration
 - /pc or /pos = positive connotation
 - /nc or /neg = negative connotation
-0 /neu = neutral / neutral connotation
+- /neu = neutral / neutral connotation
