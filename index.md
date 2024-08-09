@@ -1,10 +1,8 @@
-<div style="text-align: center;">
+Tonetags I reconise and/or coined. There are going to be ones that are missing here.
 
-- /ns
+- /ns (coined)
   
   not sure
-- /us
+- /us (coined)
   
   unsure
-
-</div>
