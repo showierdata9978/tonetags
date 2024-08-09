@@ -5,7 +5,7 @@ Tonetags I reconise and/or coined. There are going to be ones that are missing h
 - /us = unsure
 
 ## Reconise
-### https://toneindicators.carrd.co/#
+### https://tonetags.carrd.co/#
 - /j = joking
 - /s or /sarc = sarcastic / sarcasm
 - /srs = serious
