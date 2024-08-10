@@ -1,3 +1,10 @@
+<head>
+  <title>Tonetags</title>
+  <meta name="description" content="Tonetags that ShowierData9978 coined or knows">
+  <meta name="keywords" content="tonetags,tone tags, showierdata9978">
+  <meta name="author" content="showierdata9978"> 
+</head>
+
 Tonetags I reconise and/or coined. There are going to be ones that are missing here.
 
 ## Coined
