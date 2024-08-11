@@ -5,7 +5,7 @@
   <meta name="author" content="showierdata9978"> 
 </head>
 
-Tonetags I reconise and/or coined. There are going to be ones that are missing here.
+Tonetags I recognise and/or coined. There are going to be ones that are missing here.
 
 ## Coined
 - /ns = not sure
