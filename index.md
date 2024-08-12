@@ -37,3 +37,5 @@ Tonetags I recognise and/or coined. There are going to be ones that are missing 
 - /pc or /pos = positive connotation
 - /nc or /neg = negative connotation
 - /neu = neutral / neutral connotation
+### Discord
+- /info - message was information ig
